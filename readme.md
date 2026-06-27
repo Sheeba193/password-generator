@@ -32,6 +32,9 @@ password-generator/
 ├── script.js
 └── README.md
 ```
+## Project Preview
+<img width="716" height="760" alt="image" src="https://github.com/user-attachments/assets/ecede6b7-c5b2-4800-b004-3a64a9ebb4e3" />
+
 
 ## How to Use
 
